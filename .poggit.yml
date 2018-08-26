@@ -1,5 +1,6 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/pietro21x/KnockBackFFA
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Falkirks/MineReset
 branches:
 - master
-projects: [KnockBackFFA]
-...
+projects:
+  KnockBackFFA:
+    path: ""
